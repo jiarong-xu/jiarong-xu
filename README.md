@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jiarong Xu 👋
 
-<!--
-**jiarong-xu/jiarong-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master of Professional Accountancy graduate from UC San Diego with interests in data analytics, accounting, and technology.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analysis: SQL, Python, Excel
+- Visualization: Tableau, Power BI
+- Accounting: Tax, Transfer Pricing, Financial Analysis
+- AI-assisted data analysis and workflow automation
+
+## Projects
+
+I'm currently building data analytics projects that connect business, accounting, and technology.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jiarong-xu-b2a131276/)
